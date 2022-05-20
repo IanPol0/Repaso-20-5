@@ -390,6 +390,8 @@ MonoBehaviour:
   toRight: 0
   baseIzq: {fileID: 1222490976}
   baseDer: {fileID: 294754426}
+  prefab1: {fileID: 5940567515820617430, guid: 00140549818a43440ad17d11667229c0, type: 3}
+  prefab2: {fileID: 1313529167100113209, guid: 570f42a17606a884c952ae59ab541ba3, type: 3}
 --- !u!65 &645565903
 BoxCollider:
   m_ObjectHideFlags: 0
